@@ -1,7 +1,7 @@
 # Hi there, I'm Yugal Burde 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=440&lines=Full+Stack+Developer;Computer+Science+Student;Always+learning+new+technologies" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=440&lines=Full+Stack+Developer;Computer+Science+Student;Competitive+Programmer;Always+learning+new+technologies" alt="Typing SVG" />
 </div>
 
 ## 👨‍💻 About Me

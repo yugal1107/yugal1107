@@ -117,9 +117,4 @@ I'm a passionate Computer Science Engineering student at MITS Gwalior with a str
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=yugal1107&color=blueviolet&style=flat-square" alt="Profile Views" />
-  <img src="https://visitor-badge.glitch.me/badge?page_id=yugal1107.yugal1107" alt="Visitors" />
-</div>
-
-<div align="center">
-  <img src="https://github.com/yugal1107/yugal1107/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>

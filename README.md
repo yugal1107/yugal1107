@@ -4,6 +4,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=440&lines=Full+Stack+Developer;Computer+Science+Student;Competitive+Programmer;Always+learning+new+technologies" alt="Typing SVG" />
 </div>
 
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2NkYWJjZjdlMDg2NmY5YjgwYTYxNWJlZWIwNDgxZGRlMzdlZTE5MSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150"/>
+</div>
+
 ## 👨‍💻 About Me
 
 I'm a passionate Computer Science Engineering student at MITS Gwalior with a strong focus on full-stack development and AI. Maintaining an 8.53 GPA, I've built a solid foundation in various programming languages and frameworks.
@@ -12,8 +16,17 @@ I'm a passionate Computer Science Engineering student at MITS Gwalior with a str
 - 🌱 I'm learning advanced **React.js patterns** and **Cloud Architecture**
 - 👯 I'm looking to collaborate on **open-source web development projects**
 - 💬 Ask me about **Next.js, React, Node.js, or anything tech-related!**
+- ⚡ Fun fact: **I can solve a Rubik's cube in under 2 minutes**
 
 ## 🚀 Tech Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,python,js,ts,html,css,nextjs,react,nodejs,express,flask,fastapi,tailwind,materialui,postgres,mongodb,firebase,docker,git,linux&perline=10" />
+</div>
+
+<details>
+<summary>📊 More Skills</summary>
+<br>
 
 #### Languages
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -41,18 +54,18 @@ I'm a passionate Computer Science Engineering student at MITS Gwalior with a str
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+</details>
 
 ## 🔥 Featured Projects
 
-### [Dynamic Movies Website](https://github.com/yugal1107/dynamic-movies-website)
-A fully-functional movie recommendation system using K-means clustering and cosine similarity.
-- **Tech Stack:** Node.js, Express.js, React.js, PostgreSQL, FastAPI, Nginx
-- **Features:** AI-powered recommendations, Firebase authentication, real-time chatbot integration
-
-### [AI Quiz Generator](https://github.com/yugal1107/ai-quiz-generator)
-AI-powered quiz generation tool using LangChain and Google Gemini API.
-- **Tech Stack:** Next.js, LangChain, Google Gemini API, FastAPI, Tailwind CSS
-- **Features:** Dynamic quiz generation, custom difficulty levels, topic-specific questions
+<div align="center">
+  <a href="https://github.com/yugal1107/dynamic-movies-website">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yugal1107&repo=dynamic-movies-website&theme=radical" />
+  </a>
+  <a href="https://github.com/yugal1107/ai-quiz-generator">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yugal1107&repo=ai-quiz-generator&theme=radical" />
+  </a>
+</div>
 
 ## 📊 GitHub Stats
 
@@ -67,13 +80,28 @@ AI-powered quiz generation tool using LangChain and Google Gemini API.
 
 ## 🏆 Achievements & Certifications
 
-- ⭐ **2-Star Rating** on CodeChef
-- 🔥 Solved **250+** problems on LeetCode
-- 🥇 **Top 10** at HackHound 3.0, SRM Delhi NCR
-- 🏅 **Top 80** teams at Hack'Ndore for Indore Municipal Corporation challenges
-- 📜 Programming Fundamentals using Python (Parts 1 & 2) by Infosys
-- 📜 Foundations Of Cybersecurity by Google
-- 📜 Introduction to Career Essentials in Data Analytics by Microsoft
+<div align="center">
+  <table>
+    <tr>
+      <td>⭐ <b>2-Star Rating</b> on CodeChef</td>
+      <td>🔥 Solved <b>250+</b> problems on LeetCode</td>
+    </tr>
+    <tr>
+      <td>🥇 <b>Top 10</b> at HackHound 3.0, SRM Delhi NCR</td>
+      <td>🏅 <b>Top 80</b> teams at Hack'Ndore</td>
+    </tr>
+  </table>
+</div>
+
+<details>
+<summary>📜 View My Certifications</summary>
+<br>
+
+- Programming Fundamentals using Python (Parts 1 & 2) by Infosys
+- Foundations Of Cybersecurity by Google
+- Introduction to Career Essentials in Data Analytics by Microsoft
+- Google Cloud and GenAI Study Jams by Google Developer Groups (GDG)
+</details>
 
 ## 📫 Connect With Me
 
@@ -90,4 +118,9 @@ AI-powered quiz generation tool using LangChain and Google Gemini API.
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=yugal1107&color=blueviolet&style=flat-square" alt="Profile Views" />
+  <img src="https://visitor-badge.glitch.me/badge?page_id=yugal1107.yugal1107" alt="Visitors" />
+</div>
+
+<div align="center">
+  <img src="https://github.com/yugal1107/yugal1107/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>

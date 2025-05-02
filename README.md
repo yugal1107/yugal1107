@@ -16,7 +16,6 @@ I'm a passionate Computer Science Engineering student at MITS Gwalior with a str
 - 🌱 I'm learning advanced **React.js patterns** and **Cloud Architecture**
 - 👯 I'm looking to collaborate on **open-source web development projects**
 - 💬 Ask me about **Next.js, React, Node.js, or anything tech-related!**
-- ⚡ Fun fact: **I can solve a Rubik's cube in under 2 minutes**
 
 ## 🚀 Tech Stack
 
@@ -60,10 +59,10 @@ I'm a passionate Computer Science Engineering student at MITS Gwalior with a str
 
 <div align="center">
   <a href="https://github.com/yugal1107/dynamic-movies-website">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yugal1107&repo=dynamic-movies-website&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yugal1107&repo=YMoviez---Movies-Website&theme=radical" />
   </a>
-  <a href="https://github.com/yugal1107/ai-quiz-generator">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yugal1107&repo=ai-quiz-generator&theme=radical" />
+  <a href="https://github.com/yugal1107/bike-becho.com">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yugal1107&repo=bike-becho.com&theme=radical" />
   </a>
 </div>
 

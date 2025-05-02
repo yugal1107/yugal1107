@@ -58,7 +58,7 @@ I'm a passionate Computer Science Engineering student at MITS Gwalior with a str
 ## 🔥 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/yugal1107/dynamic-movies-website">
+  <a href="https://github.com/yugal1107/YMoviez---Movies-Website">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=yugal1107&repo=YMoviez---Movies-Website&theme=radical" />
   </a>
   <a href="https://github.com/yugal1107/bike-becho.com">
